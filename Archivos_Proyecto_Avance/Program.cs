@@ -8,7 +8,8 @@ namespace Archivos_Proyecto_Avance
     {
         public string Nombre;
         public long Direccion;
-        public long* dir_atrib;
+        public long* dir_atrib; 
+        //njnj
         public long* dir_datos;
         public long* sig_ent;
     }
